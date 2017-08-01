@@ -1,1 +1,1 @@
-# nginx-upstream-php-fpm
+# nginx-upstream
